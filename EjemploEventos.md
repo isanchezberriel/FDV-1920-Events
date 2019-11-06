@@ -70,7 +70,8 @@ public GameObject micharacter;
 
 ## Objetos
 
-```chsarp
+```csharp
+
 using UnityEngine;
 using System.Collections;
 
