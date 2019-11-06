@@ -1,4 +1,4 @@
-#Eventos y Delegados 
+# Eventos y Delegados 
 
 El jugador genera una explosión que hace que todos los enemigos disminuyan su tamaño y se aplica una fuerza a determinados obstáculos.
 
